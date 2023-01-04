@@ -33,6 +33,6 @@ jobs:
       with:
         image: rambabumandalapu/demo-app
         registry: docker.io
-        username: rambabumandalapu
+        username: rambabumandalapu@gmail.com
         password: ${{ secrets.DOCKER_PASSWORD }}
          
