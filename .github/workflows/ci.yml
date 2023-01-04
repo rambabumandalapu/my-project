@@ -34,5 +34,5 @@ jobs:
         image: rambabumandalapu/demo-app
         registry: docker.io
         username: rambabumandalapu@gmail.com
-        password: ${{ secrets.DOCKER_PASSWORD }}
+        password: Myrepo@9999
          
